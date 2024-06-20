@@ -31,7 +31,7 @@ import argparse
 import socket
 import select
 import binascii
-import pycrypto
+import py-cryptonight
 import pyrx
 import struct
 import json
